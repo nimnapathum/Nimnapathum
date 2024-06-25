@@ -23,7 +23,7 @@
 
 - 🌱 I’m currently learning **Computer Science**
 
-- 👨‍💻 I'm an Undergraduate at **UCSC**
+- 👨‍💻 I'm an Undergraduate at **University of Colombo School of Computing**
 
 - 📫 How to reach me **pathumeshan123@gmail.com**
 
