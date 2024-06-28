@@ -8,8 +8,8 @@
   </a>
 </div>
 -->
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
-, I'm Nimna Pathum</h1>
+<h1 align="center"><!--Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+, I'm -->Nimna Pathum</h1>
 
 <h3 align="center">CS Undergrad | Exploring Global Tech Innovations | Passionate Learner & Problem Solver</h3>
 
