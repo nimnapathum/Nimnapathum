@@ -21,16 +21,13 @@
 </a>
 
 
-- 🌱 I’m currently learning **Computer Science**
+ 🎓   Software Engineering Undergraduate at University of Colombo School of Computing.
 
-- 👨‍💻 I'm an Undergraduate at **University of Colombo School of Computing**
-
-- 📫 How to reach me **pathumeshan123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nimna-pathum-87a271266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimna pathum" height="30" width="40" /></a>  
-<a href="https://facebook.com/profile.php?id=100085518754504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna pathum" height="30" width="40" /></a>
+<!-- <a href="https://facebook.com/profile.php?id=100085518754504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nimna pathum" height="30" width="40" /></a> -->
 <a href="https://discord.gg/nimna7657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimna7657" height="30" width="40" /></a>
 </p>
 
@@ -40,14 +37,14 @@
 - Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,java,mysql,py,javascript,mongodb,express,php,react,nodejs,scala,rust" />
+    <img src="https://skillicons.dev/icons?i=py,scala,javascript,react,c,cpp,rust,html,css,java,mysql,mongodb,express,php,nodejs" />
   </a>
 </p>
 
 - Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,arduino,linux,ps,vscode,discord,visualstudio,wordpress,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,linux,arduino,discord,visualstudio,stackoverflow" />
   </a>
 </p>
 <br/>
