@@ -28,7 +28,11 @@
 <h3 align='center'> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nimna-pathum-87a271266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimna pathum" height="30" width="40" /></a>  
+  <a href="https://www.linkedin.com/in/nimna-pathum-87a271266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nimna pathum" height="30" width="40" />
+  </a>  
 
-<a href="https://discord.gg/nimna7657" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimna7657" height="30" width="40" /></a>
+  <a href="https://discord.gg/nimna7657" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimna7657" height="30" width="40" />
+  </a>
 </p>
