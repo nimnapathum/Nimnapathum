@@ -26,20 +26,23 @@
 
 <hr>
 
-- Languages
+- Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,scala,javascript,react,nodejs,c,cpp,rust,html,css,java,mysql,mongodb,express,php" />
   </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,arduino,discord,stackoverflow" />
+  </a>
 </p>
 
+<!--
 - Tools
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,arduino,discord,stackoverflow" />
   </a>
-</p>
-<br/>
+</p>-->
 <hr>
 
 </br>
