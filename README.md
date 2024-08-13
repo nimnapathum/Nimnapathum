@@ -4,7 +4,7 @@
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_1.png)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=nimnapathum&label=Profile%20views&color=0e75b6&style=flat" alt="Nimnapathum" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Nimnapathum&label=Profile%20views&color=0e75b6&style=flat" alt="Nimnapathum" /> </p>
 
 <div align='center'> 🎓   Computer Science Undergraduate at University of Colombo School of Computing.</div>
 <hr>
@@ -22,7 +22,7 @@
 <hr>
 
 <p align='center'>
-<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=nimnapathum&show_icons=true&theme=gotham"/>
+<img width="45%" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=Nimnapathum&show_icons=true&theme=gotham"/>
 </p>
 <hr>
 <h3 align='center'> 🤝🏻 &nbsp;Connect with Me </h3>
