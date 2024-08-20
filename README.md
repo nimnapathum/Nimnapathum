@@ -15,7 +15,7 @@
     <img src="https://skillicons.dev/icons?i=py,scala,javascript,react,nodejs,c,cpp,rust,html,css,java,mysql,mongodb,express,php" />
   </a>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,arduino,discord,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,docker,linux,postman,arduino,discord,stackoverflow" />
   </a>
 </p>
 
