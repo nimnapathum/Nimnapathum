@@ -35,4 +35,9 @@
   <a href="https://discord.gg/nimna7657" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nimna7657" height="30" width="40" />
   </a>
+
+<!--
+  <a href="https://github.com/nimnapathum">
+        <img alt="Nimna Pathum's Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=nimnapathum&custom_title=Nimna%20Pathum's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" />
+    </a> -->
 </p>
